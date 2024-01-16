@@ -1,5 +1,5 @@
-# [Your Name]
-## [Your Profession]
+# [Bhuwan Bandari]
+## [Student]
 
 ---
 
