@@ -1,18 +1,18 @@
-# [Will Grund]
-## [Applied Software Engineering major]
+# [Your Name]
+## [Your Profession]
 
 ---
 
 ### Contact
-- **Email:** [grundw1@mymail.nku.edu]
+- **Email:** [Your NKU Email Address]
 - **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [https://github.com/willg178]
+- **GitHub:** [Your GitHub Profile]
 - **Website:** [Your Personal Website]
 
 ---
 
 ### Summary
-I got into coding in highschool. I have some experience with front end and back end development. Specifically Ruby on Rails and VueJS. My careers goals are to become a web designer or software engineer. 
+A brief summary highlighting your professional background, key skills, and career goals.
 
 ---
 
@@ -40,8 +40,8 @@ I got into coding in highschool. I have some experience with front end and back 
 ---
 
 ### Skills
-- **Technical Skills:** VueJS, Ruby on Rails, Python, Java, Javascript.
-- **Soft Skills:** Communication, teamwork, problem-solving.
+- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
+- **Soft Skills:** Communication, teamwork, problem-solving, etc.
 
 ---
 
