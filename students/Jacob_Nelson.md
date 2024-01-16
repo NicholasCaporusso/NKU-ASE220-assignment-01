@@ -1,5 +1,5 @@
 # Jacob Nelson
-![Photo](Jacob_Nelson.png)
+[![Jacob Nelson](Jacob_Nelson.png)](Jacob_Nelson.png)
 
 ---
 
