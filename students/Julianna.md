@@ -1,87 +1,57 @@
-# [Your Name]
+# Julianna Truitt
 
-## [Your Profession]
 
 ---
 
 ### Contact
 
-- **Email:** [Your NKU Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **Email:** truittj3@nku.edu
+- **GitHub:** https://github.com/juliannatruitt
 
 ---
 
 ### Summary
 
-A brief summary highlighting your professional background, key skills, and career goals.
+Junior at NKU majoring in Applied Software Engineering and minoring in Information Security.
 
 ---
 
-### Experience
-
-#### [Job Title] - [Company Name]
-
-_*[Start Date] - [End Date] | [Location]*_
-
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
-
-#### [Previous Job Title] - [Previous Company Name]
-
-_*[Start Date] - [End Date] | [Location]*_
-
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
-
----
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
+#### BA, Applied Software Engineering - Northern Kentucky University
 
-_*[Graduation Date]*_
+_*May 2025*_
 
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+- Object Oriented Programming 1 and 2, Server Sided Programming, Sofware Design, Web Development, Intro to Machine Learning, Elemntary Programming, and Database Programming.
 
 ---
 
 ### Skills
 
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Java, Python, PHP, HTML, CSS, UML
+- **Soft Skills:** Communication, Collaboration, Resillience, Determination
 
 ---
 
-### Certifications
-
-- [Certification Name], Issued by [Issuing Organization] - [Date]
-- Another relevant certification with details.
-
----
 
 ### Projects
 
-#### [Project Title]
+#### Refactoring Tetris Code
 
-- A brief description of the project.
-- Technologies used and your role in the project.
+- Worked with a team to add three features to tetris game and implemedted proper refactoring and design patterns to the code. 
+- Visual Studio Code, Java, CLOC, and Markdown. 
 
-#### [Another Project Title]
+#### Resume Building Website
 
-- Description of this project.
-- Highlight any unique challenges or successes.
+- Worked with a team to develop a resume building website that utalized a database and has auhtorization for users to signup/signin. 
+- PHP, myadminphp database, and bootstrap.
 
 ---
 
 ### Languages
 
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **English:** Native
 
----
 
-### References
 
-Available upon request.
