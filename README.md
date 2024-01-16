@@ -11,5 +11,5 @@
 ### [Khanh Nguyen](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.md)
 
 <a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.png">
-  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.png" width="280" height="400" alt="Khanh Nguyen">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.png" width="270" height="400" alt="Khanh Nguyen">
 </a>
