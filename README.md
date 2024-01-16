@@ -1,7 +1,11 @@
 Our awesome class
 -----------------
 ## Our awesome class
+### [Mariah Gault](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Mariah_Gault.md)
 
+<a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Mariah_Gault.jpg?raw=true">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Mariah_Gault.jpg?raw=true" width="270" height="400" alt="Mariah Gault">
+</a>
 ### [Cassian Godsted](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Cassian_Godsted.md)
 
 [![Cassian Godsted](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Cassian_Godsted.jpeg?raw=true)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Cassian_Godsted.jpeg?raw=true)
