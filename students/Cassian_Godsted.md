@@ -1,7 +1,7 @@
 # Cassian Godsted
 ## Internal Systems Admin, INTERalliance / Operations and Events Assistant, NKU
 
-![Headshot of Cassian Godsted](./Cassian_Godsted.jpeg)
+![Headshot of Cassian Godsted](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Cassian_Godsted.jpeg?raw=true)
 
 
 ---
