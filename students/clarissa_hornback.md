@@ -1,7 +1,7 @@
 # Clarissa Hornback
 ## Beauty Team Leader at Sephora @ Kohls
-![Clarissa Hornback] (file:///Users/clarissa/Desktop/assignment/NKU-ASE220-assignment-01/students/clarissa_hornback.jpg)
-[image](file:///Users/clarissa/Desktop/assignment/NKU-ASE220-assignment-01/students/clarissa_hornback.jpg)
+[Clarissa Hornback](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/clarissa_hornback.md)
+![Clarissa Hornback] (https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/clarissa_hornback.jpeg)
 ---
 
 ### Contact
