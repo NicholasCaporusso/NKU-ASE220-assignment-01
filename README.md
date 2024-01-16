@@ -1,6 +1,6 @@
 Our awesome class
 -----------------
-## Our awesome class
+
 ### [Mariah Gault](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Mariah_Gault.md)
 
 <a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Mariah_Gault.jpg?raw=true">
