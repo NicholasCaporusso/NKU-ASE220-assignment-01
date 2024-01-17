@@ -31,6 +31,8 @@ Our awesome class
   <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Ba_Ta.jpeg" width="300" height="400" alt="Ba Ta">
 </a>
 
+### [Christian Lane](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Christian_Lane.md)
+[![Christian Lane](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/44d693e3887af6b9369063e6b5dc5678a9b44532/students/Christian_Lane.jpg)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/44d693e3887af6b9369063e6b5dc5678a9b44532/students/Christian_Lane.jpg)
 
 ### [Preston Jackson](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Preston_Jackson.md)
 
