@@ -39,3 +39,7 @@ Our awesome class
 <a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg">
   <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg" width="180" height="300" alt="Sushant Dahal">
 </a>
+
+### [Julianna Truitt](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Julianna_Truitt.md)
+
+[![Julianna Truitt](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/julianna_truitt.jpg)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/julianna_truitt.jpg)
