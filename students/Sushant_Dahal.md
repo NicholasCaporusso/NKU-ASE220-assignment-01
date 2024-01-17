@@ -1,7 +1,7 @@
 ### Sushant Dahal
 
 <a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg">
-  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg" width="300" height="300" alt="Sushant Dahal">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg" width="200" height="300" alt="Sushant Dahal">
 </a>
 
 ---
