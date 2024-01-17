@@ -1,5 +1,4 @@
 Ba Ta
-Computer Science student
 ---
 
 ### Contact
