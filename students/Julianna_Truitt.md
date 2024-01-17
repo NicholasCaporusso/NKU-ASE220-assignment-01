@@ -1,6 +1,6 @@
 # Julianna Truitt
 
-![Picture of Julianna Truitt](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Julianna_Truitt.md)
+![Picture of Julianna Truitt](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/julianna_truitt.jpg)
 
 
 ---
