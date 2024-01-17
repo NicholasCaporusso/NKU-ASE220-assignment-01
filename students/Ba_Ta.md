@@ -23,8 +23,14 @@ _*May 2025*_
 
 ### Skills
 
-- **Technical Skills:** Python, Java
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Python, Java, JavaScript, MySQL
+- **Soft Skills:** Communication, teamwork, problem-solving
+
+---
+### Languages
+
+- Vietnamese
+- English
 
 ---
 
