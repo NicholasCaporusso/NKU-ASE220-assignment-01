@@ -1,5 +1,7 @@
 Ba Ta
 ---
+![image](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/assets/102819022/8a16c64f-00ad-4f80-b14c-12adea8181c4)
+
 
 ### Contact
 
