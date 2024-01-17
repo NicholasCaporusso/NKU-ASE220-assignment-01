@@ -33,3 +33,9 @@ Our awesome class
 ### [Sushant Shrestha](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Shrestha.md)
 
 [![Sushant Shrestha](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Shrestha.jpeg?raw=true)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Shrestha.jpeg?raw=true)
+
+### [Sushant Dahal](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.md)
+
+<a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg" width="180" height="300" alt="Sushant Dahal">
+</a>
