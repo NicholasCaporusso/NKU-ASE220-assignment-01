@@ -43,3 +43,7 @@ Our awesome class
 ### [Julianna Truitt](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Julianna_Truitt.md)
 
 [![Julianna Truitt](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/julianna_truitt.jpg)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/julianna_truitt.jpg)
+
+
+### [First name last name](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/bhuwanbhandari.md)
+[![First name last name](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/bhuwanbhandari.JPG)
