@@ -28,7 +28,7 @@ Our awesome class
 ### [Ba Ta](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Ba_Ta.md)
 
 <a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Ba_Ta.jpeg">
-  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Ba_Ta.jpeg" width="270" height="400" alt="Ba Ta">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Ba_Ta.jpeg" width="300" height="400" alt="Ba Ta">
 </a>
 
 
