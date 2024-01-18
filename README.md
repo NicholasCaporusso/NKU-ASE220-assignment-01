@@ -74,3 +74,6 @@
 
 ### [Garrett Kinder](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Garrett_Kinder.md)
 [![Garrett Kinder](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Garrett_Kinder.jpeg)]
+
+### [Cleyton Shelton](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/cleyton_shelton.md)
+[![Cleyton Shelton](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/cleyton_shelton.jpg)]
