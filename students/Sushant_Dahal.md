@@ -1,5 +1,8 @@
-# [Sushant Dahal]
-## [Student]
+### Sushant Dahal
+
+<a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Dahal.jpg" width="180" height="300" alt="Sushant Dahal">
+</a>
 
 ---
 
@@ -7,7 +10,6 @@
 - **Email:** [dahals6@mymail.nku.edu]
 - **LinkedIn:** [Sushant Dahal]
 - **GitHub:** [dSushant717]
-- **Website:** [Your Personal Website]
 
 ---
 
@@ -17,26 +19,10 @@ I'm currently a sophomore in Northern Kentucky University with experience in Jav
 
 ---
 
-### Experience
-
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
-
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
-
----
-
 ### Education
 
 #### [Bachelors], [Computer Science] - [Northern Kentucky University]
 *_[May 05, 2026]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
 
 ---
 
@@ -44,29 +30,4 @@ I'm currently a sophomore in Northern Kentucky University with experience in Jav
 - **Technical Skills:** Python, Django, Javascript, ReactJS, etc.
 - **Soft Skills:** Communication, teamwork, problem-solving, debugging, etc.
 
----
 
-### Certifications
-- [Certification Name], Issued by [Issuing Organization] - [Date]
-- Another relevant certification with details.
-
----
-
-### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
-
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
-
----
-
-### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
-
----
-
-### References
-Available upon request.
