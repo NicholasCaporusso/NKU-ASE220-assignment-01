@@ -1,5 +1,8 @@
 ### Khanh Nguyen
 
+<a href="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.png">
+  <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.png" width="270" height="400" alt="Khanh Nguyen">
+</a>
 ---
 
 ### Contact
@@ -21,8 +24,8 @@ _*May 2025*_
 
 ### Skills
 
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** JavaScript, Python, Java, C/C++, MySQL, MongoDB, React, NodeJS
+- **Soft Skills:** Critical thinking, teamwork, problem-solving, etc.
 
 ---
 
