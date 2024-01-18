@@ -71,3 +71,6 @@
 ### [Luke Norberg](https://github.com/lukenorberg)
 
 [![Luke Norberg](./students/Luke_Norberg.jpg)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Luke_Norberg.jpg)
+
+### [Garrett Kinder](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Garrett_Kinder.md)
+[![Garrett Kinder](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Garrett_Kinder.jpeg)]
