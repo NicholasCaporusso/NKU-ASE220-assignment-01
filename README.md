@@ -16,6 +16,5 @@ Our awesome class
   <img src="https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Khanh_Nguyen.png" width="270" height="400" alt="Khanh Nguyen">
 </a>
 
-### [Sushant Shrestha](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Shrestha.md)
 
 [![Sushant Shrestha](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Shrestha.jpeg?raw=true)](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Sushant_Shrestha.jpeg?raw=true)
