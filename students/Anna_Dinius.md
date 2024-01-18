@@ -1,6 +1,6 @@
 # [Anna Dinius]
 ## [Student]
-![portrait of Anna Dinius]("https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Anna_Dinius.md)
+![portrait of Anna Dinius](Anna_Dinius.jpg)
 
 ---
 
