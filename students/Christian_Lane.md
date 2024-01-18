@@ -1,4 +1,4 @@
-# [Your Name]
+# Christian Lane
 
 ## [Your Profession]
 
@@ -6,16 +6,16 @@
 
 ### Contact
 
-- **Email:** [Your NKU Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **Email:** <lanec6@mymail.nku.edu>
+- **LinkedIn:** <https://www.linkedin.com/in/christian-lane-230134200/>
+- **GitHub:** <https://github.com/ssdtac>
+- **Website:** <https://google.com> (Little pet project of mine)
 
 ---
 
 ### Summary
 
-A brief summary highlighting your professional background, key skills, and career goals.
+I'm goated!!
 
 ---
 
@@ -23,9 +23,9 @@ A brief summary highlighting your professional background, key skills, and caree
 
 #### [Job Title] - [Company Name]
 
-_*[Start Date] - [End Date] | [Location]*_
+_*Birth - Death | Experience City*_
 
-- Bullet point detailing a key responsibility or achievement.
+- I was goated in this position
 - Another bullet point with a different responsibility or accomplishment.
 
 #### [Previous Job Title] - [Previous Company Name]
@@ -39,19 +39,19 @@ _*[Start Date] - [End Date] | [Location]*_
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
+#### Bachelor of Science, Computer Science - Northern Kentucky University
 
-_*[Graduation Date]*_
+_* May 2024 *_
 
-- Any relevant coursework or academic achievements.
+- I was absolutely goated and did all my coursework super well
 - Extracurricular activities or clubs you were part of.
 
 ---
 
 ### Skills
 
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Technically I am skilled
+- **Soft Skills:** Communication, teamwork, problem-solving
 
 ---
 
@@ -64,9 +64,9 @@ _*[Graduation Date]*_
 
 ### Projects
 
-#### [Project Title]
+#### Goated Project
 
-- A brief description of the project.
+- This project was to
 - Technologies used and your role in the project.
 
 #### [Another Project Title]
@@ -78,7 +78,7 @@ _*[Graduation Date]*_
 
 ### Languages
 
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **English:** Native
 
 ---
 
