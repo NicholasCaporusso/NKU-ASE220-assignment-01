@@ -5,14 +5,13 @@
 
 ### Contact
 - **Email:** Ramsdelle1@mymail.nku.edu
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **LinkedIn:** https://www.linkedin.com/in/ethanramsdell/
+- **GitHub:** https://github.com/Ethan-Ramsdell
 
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
+Software Engineering student skills in strategic problem solving with software and Javascript
 
 ---
 
@@ -20,39 +19,39 @@ A brief summary highlighting your professional background, key skills, and caree
 
 #### Student - Northern Kentucky University
 *_2022 - Current | Highland Heights_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+- Finished Freshman year
+- Finished 1st semester of sophomore year
 
 #### Student - Dixie Heights High School
 *_2018 - 2022 | Fort Mitchell_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
+- Graduated with all As and Bs
 
 ---
 
 ### Education
 
-#### [Degree], Applied Software Engineering - Northern Kentucky University
+#### Applied Software Engineering - Northern Kentucky University
 *_2026_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+- Finshed Object-Oriented Programming I
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Python, JavaScript, Java
+- **Soft Skills:** Program Development, Programming, Creative Problem Solving, Strategic Planning
 
 ---
 
 ### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
+#### Elementary Programming Final
+- Final assignment of INF 120 which used all programming skills learned from this class. 
+- Created a program that took data and organized it into a graph and chart in order of price. 
+- Incorporated elements such as lists, definitions, functions, loops, input, and variables in python.
 
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
+#### Web Development Final
+- Final assignment of INF 286 which used all of the skills learned in the class.
+- Created a website consisting of 10 general questions about space formatted sequentially to act as a quiz. 
+- Incorporated elements such as an organized hierarchy, links, buttons, and lists.
 
 ---
 
