@@ -7,9 +7,9 @@
 ### Contact
 
 - **Email:** rair1@nku.edu
-- **LinkedIn:** Raj rai
-- **GitHub:** raj rai
-- **Website:** rajrai.com
+- **LinkedIn:** https://www.linkedin.com/in/raj-rai-59447b249/
+- **GitHub:** rajrair1
+- **Website:** rajrai.com(currently working)
 
 ---
 
@@ -21,67 +21,56 @@ I'm a full time student currently majoring in CS. I'm trying to improve on fulls
 
 ### Experience
 
-#### [Job Title] - [Company Name]
+#### Membership - NKU rec centre
 
-_*[Start Date] - [End Date] | [Location]*_
+_*sep 2023 - present | *_
 
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+- Deal with customers.
+- sell membership and handle any problems that occur at frontdesk.
 
-#### [Previous Job Title] - [Previous Company Name]
-
-_*[Start Date] - [End Date] | [Location]*_
-
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
 
 ---
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
+#### Bachelors, Computer Science - Northern Kentucky University
 
-_*[Graduation Date]*_
+Spring_2025_
 
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+
 
 ---
 
 ### Skills
 
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Java, python, Web-Dev. 
+- **Soft Skills:** Communication, teamwork, problem-solving, Critical thinking, leadership.
 
 ---
 
 ### Certifications
 
-- [Certification Name], Issued by [Issuing Organization] - [Date]
-- Another relevant certification with details.
-
+- none
 ---
 
 ### Projects
 
-#### [Project Title]
+#### Law-firm website developmetn
 
-- A brief description of the project.
-- Technologies used and your role in the project.
-
-#### [Another Project Title]
-
-- Description of this project.
-- Highlight any unique challenges or successes.
+- it was a web-dev class project.
+- Used Html, css to make website more interactive.
+- made it interactive in both pc and mobile surface.
 
 ---
 
 ### Languages
 
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- English
+- Nepali
+- Hindi
 
 ---
 
 ### References
 
-Available upon request.
+None
