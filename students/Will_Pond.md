@@ -18,10 +18,11 @@ A brief summary highlighting your professional background, key skills, and caree
 
 ### Experience
 
-#### [Lifeguard] - [SwimSafe]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+#### [Lifeguard] - [SwimSafe Pool Managment]
+*_[Jan 2019] - [Current] | [Terrace Park Country Club]_*
+- Set up the pool and clean the pool area.
+- Enforced the pool rules.
+- Monitor the pool and the pool area to make sure nobody is drowning or hurt. If necessary, perform active saves and medical treatment.  
 
 #### [Previous Job Title] - [Previous Company Name]
 *_[Start Date] - [End Date] | [Location]_*
