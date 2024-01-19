@@ -18,7 +18,7 @@ A brief summary highlighting your professional background, key skills, and caree
 
 ### Experience
 
-#### [Job Title] - [Company Name]
+#### [Lifeguard] - [SwimSafe]
 *_[Start Date] - [End Date] | [Location]_*
 - Bullet point detailing a key responsibility or achievement.
 - Another bullet point with a different responsibility or accomplishment.
