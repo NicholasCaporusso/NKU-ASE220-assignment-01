@@ -92,3 +92,7 @@
 
 ### [Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/priyanka_pandit.md)
 [![Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/PRIYANKA_PANDIT.jpg)]
+
+
+### [Jeffrey Perdue](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/JEFFREY_PERDUE.md)
+[![Jeffrey Perdue](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/JEFFREY_PERDUE.jpg)](link)
