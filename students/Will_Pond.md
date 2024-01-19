@@ -1,5 +1,5 @@
-# [Will Pond]
-## [Software Engineer]
+# Will Pond
+## Software Engineer
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Job History
 
-#### [Lifeguard] - [SwimSafe Pool Managment]
+#### Lifeguard - SwimSafe Pool Managment
 *_[Jan 2019] - [Current] | [Terrace Park Country Club]_*
 - Set up the pool and clean the pool area.
 - Enforced the pool rules.
@@ -30,7 +30,7 @@
 #### [Bacholar], [Computer Science] - [Northern Kentucky Unvseristy]
 *_[May 2025]_*
 - Minoring in Math and Computer Informatics Technology
-- Awards OUstanding Freshman Award by the Department of Computer Science
+- Awards Oustanding Freshman Award by the Department of Computer Science
 
 ---
 
@@ -58,7 +58,7 @@
 ---
 
 ### Languages
-- **[English]:**
+- **English:**
 
 ---
 
