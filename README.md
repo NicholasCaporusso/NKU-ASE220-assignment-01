@@ -90,5 +90,5 @@
 ### [Douglas Broughton](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Douglas_Broughton.md)
 [![Douglas Broughton](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Douglas_Broughton.PNG)]
 
-###[Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/priyanka_pandit.md)
+### [Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/priyanka_pandit.md)
 [![Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/PRIYANKA_PANDIT.jpg)]
