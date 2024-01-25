@@ -1,3 +1,3 @@
 
-### [First name last name](link-to-your-page-in-the-github-repo)
-[![First name last name](https://github-repo-link/your_profile_picture.jpg)](link)
+### [Will Pond](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Will_Pond.md)
+[![Will Pond](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Will_Pond.jpg)](link)
