@@ -86,3 +86,20 @@
 
 ### [Isha Nepal](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/ISHA_NEPAL.md)
 [![Isha Nepal](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Isha_Nepal.jpg)]
+
+### [Douglas Broughton](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Douglas_Broughton.md)
+[![Douglas Broughton](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Douglas_Broughton.PNG)]
+
+### [Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/priyanka_pandit.md)
+[![Priyanka Pandit](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/PRIYANKA_PANDIT.jpg)]
+
+
+### [Jeffrey Perdue](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/JEFFREY_PERDUE.md)
+[![Jeffrey Perdue](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/JEFFREY_PERDUE.jpg)](link)
+
+
+### [Will Pond](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Will_Pond.md)
+[![Will Pond](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Will_Pond.jpg)](link)
+
+### [Rajani Khatri](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Rajani_Khatri.md)
+[![Rajani Khatri](https://github.com/NicholasCaporusso/NKU-ASE220-assignment-01/blob/2024-spring/students/Rajani_Khatri.jpg)](link)

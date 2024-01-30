@@ -1,5 +1,5 @@
-# [Will Pond]
-## [Computer Science]
+# Will Pond
+## Software Engineer
 
 ---
 
@@ -12,36 +12,31 @@
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
+-Dedicated Computer Science major student seeking an internship/a co-op in the field of Software Engineering
 
 ---
 
-### Experience
+### Job History
 
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+#### Lifeguard - SwimSafe Pool Managment
+*_[Jan 2019] - [Current] | [Terrace Park Country Club]_*
+- Set up the pool and clean the pool area.
+- Enforced the pool rules.
+- Monitor the pool and the pool area to make sure nobody is drowning or hurt. If necessary, perform active saves and medical treatment.  
 
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
-
----
 
 ### Education
 
 #### [Bacholar], [Computer Science] - [Northern Kentucky Unvseristy]
-*_[Graduation Date]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+*_[May 2025]_*
+- Minoring in Math and Computer Informatics Technology
+- Awards Oustanding Freshman Award by the Department of Computer Science
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Java, Python, Javascript, CSS, HTML, SQL, Git, Powershell
+- **Soft Skills:** Communication, teamwork, problem-solving
 
 ---
 
@@ -63,7 +58,7 @@ A brief summary highlighting your professional background, key skills, and caree
 ---
 
 ### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **English:**
 
 ---
 
