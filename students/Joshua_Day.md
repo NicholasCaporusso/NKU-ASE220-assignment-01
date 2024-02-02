@@ -58,19 +58,14 @@ None rn
 ---
 
 ### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
-Made a website for a group i work with using css and java and html using visual code
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
-Working on an AI bot to help me with day trading to simplify it using python to learn trends in markets
+#### [Blackjack]
+making a blackjack game rn. going pretty smooth although its brand new
+#### [Ai trading algorithm]
+Make and ai to detect patterns to trade... alot to work on as i dont know much AI
 ---
 
 ### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
-Java fluent, Python Fluent, Html fluent
+- **[Java,Python, Html]:** Proficiency level Native
 ---
 
 ### References
